@@ -1,0 +1,4 @@
+RobinHood: 2216.00
+Barclays: 1106.10
+Fifth Third Checking: 184.00
+Fifth Third Savings: 1100.36
